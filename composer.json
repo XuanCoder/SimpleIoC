@@ -1,0 +1,17 @@
+{
+    "name": "Naux/SimpleIoC",
+    "description": "a simple ico container",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Xuan",
+            "email": "i@naux.me"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SimpleIoC\\": ""
+        }
+    }
+}
